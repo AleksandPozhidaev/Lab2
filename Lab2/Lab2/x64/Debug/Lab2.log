@@ -1,0 +1,22 @@
+﻿  Lab2.c
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(15,5): warning C4013: zd1: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(16,5): warning C4013: zd2: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(17,5): warning C4013: zd3: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(18,5): warning C4013: res1: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(19,5): warning C4013: res2: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(20,5): warning C4013: kvdr: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(40,9): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(29,25): warning C4101: num3: неиспользованная локальная переменная
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(49,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(50,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(51,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(54,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(91,1): warning C4142: "res1": неопасное переопределение типа
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(97,1): warning C4142: "res2": неопасное переопределение типа
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(98,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(103,1): warning C4142: "kvdr": неопасное переопределение типа
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(41): warning C4716: zd1: должна возвращать значение
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(67): warning C4716: zd2: должна возвращать значение
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(87): warning C4716: zd3: должна возвращать значение
+C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\Lab2\Lab2.c(121): warning C4716: kvdr: должна возвращать значение
+  Lab2.vcxproj -> C:\Users\pozhi\OneDrive\Рабочий стол\Учеба\Lab2\x64\Debug\Lab2.exe
